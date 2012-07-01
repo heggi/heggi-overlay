@@ -1,0 +1,25 @@
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+<repo quality="experimental" status="unofficial">
+<name>
+<![CDATA[heggi]]>
+</name>
+<description lang="en">
+<![CDATA[heggi's ebuild ward]]>
+</description>
+<homepage>
+https://github.com/heggi/heggi-overlay
+</homepage>
+<owner type="person">
+<email>
+denk2004@inbox.ru
+</email>
+<name>
+<![CDATA[Grigory Chagin]]>
+</name>
+</owner>
+<source type="git">
+git://github.com/heggi/heggi-overlay.git
+</source>
+</repo>
+</repositories>
