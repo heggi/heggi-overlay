@@ -21,5 +21,8 @@ denk2004@inbox.ru
 <source type="git">
 git://github.com/heggi/heggi-overlay.git
 </source>
+<source type="git">
+https://github.com/heggi/heggi-overlay.git
+</source>
 </repo>
 </repositories>

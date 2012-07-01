@@ -8,7 +8,8 @@ inherit eutils
 
 DESCRIPTION="Implementation of IEEE 802.1ab (LLDP)"
 HOMEPAGE="http://github.com/vincentbernat/lldpd/wiki"
-SRC_URI="http://media.luffy.cx/files/${PN}/${P}.tar.gz"
+SRC_URI="http://media.luffy.cx/files/${PN}/${P}.tar.gz
+	 https://raw.github.com/heggi/distfiles/master/${P}.tar.gz"
 
 LICENSE="ISC"
 SLOT="0"
